@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: aliceblue;
+  position: relative;
+}
+
+.Navbar{
+    position: sticky;
+    top: 0;
+    margin: auto;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(78, 86, 86);
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    /* padding: 0; */
+    margin: 0;
+}
+li{
+    padding-top: 15px;
+    margin:0;
+    list-style-type:none;
+}

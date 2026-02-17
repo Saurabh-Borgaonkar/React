@@ -1,0 +1,16 @@
+.card{
+    height: auto;
+    width: 20vw;
+    color: white;
+    /* padding: 5px; */
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+     margin-top: 10px;
+}
+.card>p,h1{
+    margin: 0;
+    padding: 7px;
+}
