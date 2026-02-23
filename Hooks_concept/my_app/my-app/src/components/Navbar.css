@@ -1,0 +1,14 @@
+div{
+    background: #807d7d;
+    /* height: 60px;
+    width: 100vw; */
+}
+ul{
+     height: 60px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    /* background: #464545; */
+    color:rgb(167, 169, 171);
+    list-style: none;
+}
