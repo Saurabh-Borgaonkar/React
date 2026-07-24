@@ -1,6 +1,5 @@
 import { useState,useEffect,useRef } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
 function App() {
@@ -11,7 +10,7 @@ function App() {
     useEffect(() => {
      btnRef.current.style.backgroundColor="gray";
     },[])
-    
+
   return (
     <>
       <h1>Vite + React</h1>
